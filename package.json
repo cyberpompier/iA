@@ -1,0 +1,12 @@
+{
+  "name": "pwa-widget",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.1.1"
+  }
+}
